@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background: linear-gradient(#fcc603 22%, #b103fc 100%);
+}
+img {
+  border-radius: 40%;
+  width: 30%;
+}
+h1 {
+  text-shadow: 2px 2px #eff542;
+  font-size: 30px;
+}
+p {
+  font-size: 18px;
+  color: #42f5b6;
+}
+.menu{
+	list-style: none;
+	font-family: cursive;
+	float: right;
+	top: 10px;
+	right: 30px;
+	cursor: pointer;
+	color: black;	
+}.link:hover{
+	background-color: aqua;
+}
+.Underline{
+	height: 10px;
+	width: 230px;
+	background-color: black;
+	margin: 8px auto;}
